@@ -1,6 +1,6 @@
 # Code for "Geometric numerical integration via auxiliary variables"
 
-This repository contains the code used to generate the numerical results in the thesis  _**Geometric numerical integration via auxiliary variables**_ by **Boris D. Andrews**.
+This repository contains the code used to generate the numerical results in the thesis  _**Geometric numerical integration via auxiliary variables**_ by **Boris Andrews**.
 
 
 
